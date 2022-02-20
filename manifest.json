@@ -1,0 +1,15 @@
+{
+	"name": "Ish's PWA Application",
+	"short_name": "Ish PWA",
+	"start_url": ".",
+	"background_color": "#6dcdb1",
+	"theme_color": "#009578",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "./logo512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
